@@ -1,0 +1,25 @@
+# local ssl
+**/ssl/*
+
+!/**/.gitkeep
+
+.idea/*
+.classpath
+*/.idea/*
+**/.idea/*
+**/spoon.classpath-app.tmp
+metamodel-analysis/spoon.classpath.tmp
+metamodel-sample/spoon.classpath.tmp
+
+*.iml
+
+.DS_Store
+.git-crypt.key
+.env
+.npmrc
+.eslintcache
+.envrc
+.kubeconfig
+.aws/credentials
+target
+**/target
